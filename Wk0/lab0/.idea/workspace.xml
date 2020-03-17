@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="247e5717-2294-4cf1-b63a-b7fc1e61f543" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XakV9QhUvxxE35oIsbyJlWxyHO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="247e5717-2294-4cf1-b63a-b7fc1e61f543" name="Default Changelist" comment="" />
+      <created>1581291614122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581291614122</updated>
+      <workItem from="1581291615856" duration="15028000" />
+      <workItem from="1581458625524" duration="16000" />
+      <workItem from="1581460125547" duration="1625000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="162" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1581460125830">
+      <screen x="0" y="23" width="1920" height="986" />
+    </state>
+    <state x="162" y="256" key="com.intellij.ide.util.TipDialog/0.23.1920.986@0.23.1920.986" timestamp="1581460125830" />
+    <state x="120" y="169" width="670" height="676" key="search.everywhere.popup" timestamp="1581375573975">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="120" y="169" width="670" height="676" key="search.everywhere.popup/0.23.1440.822@0.23.1440.822" timestamp="1581375573975" />
+  </component>
+</project>
